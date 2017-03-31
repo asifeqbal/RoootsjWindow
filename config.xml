@@ -27,6 +27,7 @@
 	<preference name="ShowSplashScreenSpinner" value="false" />
 	<preference name="orientation" value="portrait" />
     <preference name="target-device" value="universal" />
+	<preference name="Cordova-version" value="cli-6.5.0" />
 	
     <access origin="*" />
 	<access origin="https://www.facebook.com/" />
